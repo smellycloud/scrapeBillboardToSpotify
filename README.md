@@ -14,3 +14,7 @@ Auto generate Spotify playlists with Billboard Top 100 songs from any date
 ```
 python3 main.py
 ```
+
+
+https://user-images.githubusercontent.com/52908667/154548209-b601f4c9-bce1-4d43-9ede-6e6f5764fe13.mp4
+
