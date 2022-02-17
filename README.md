@@ -10,3 +10,7 @@ Auto generate Spotify playlists with Billboard Top 100 songs from any date
 3. Go to Dashboard -> Edit Settings and change the Redirect URI to http://localhost:8080
 
 4. Change Client ID and Secret ID in spotify_utils.py
+
+```
+python3 main.py
+```
